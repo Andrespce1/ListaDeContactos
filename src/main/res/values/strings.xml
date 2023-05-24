@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda de contactos</string>
+    <string name="txtName">Nombre del contacto</string>
+    <string name="txtTelefono">Telefono del contacto</string>
+    <string name="txtDireccion">Direccion del contacto</string>
+    <string name="txtEmail">Email del contacto</string>
+</resources>
